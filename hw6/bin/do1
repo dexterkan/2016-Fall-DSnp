@@ -1,0 +1,92 @@
+cirr C17.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr C432_r.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr C432.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr C499_r.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr C499.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr C17.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr C880.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr C1355.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr C1908.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr C3540.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr C5315.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr C6288.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+cirr C7552.aag -r
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirw
+q -f
